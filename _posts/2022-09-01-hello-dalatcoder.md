@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Xin chào DalatCoder
-date: 2022-09-01 20:00:00 +0700
-categories: [Demo,Hello]
-tags: [test,demo,dalatcoder]
+date: 2022-09-01 20:26 +0700
+categories: [Demo, DalatCoder]
+tags: [demo,dalatcoder,hello world]     # TAG names should always be lowercase
 ---
 
 # Bài viết đầu tiên của DalatCoder
@@ -28,7 +29,7 @@ Nullam sem diam, tincidunt nec posuere in, aliquet quis sem. Curabitur vehicula 
 Minh hoạ ảnh
 
 ![DalatCoder avatar](https://avatars.githubusercontent.com/u/49048131?s=400&u=f3a43cb86922fdb1e9144d5e76e8937b5b557119&v=4)
-_Image Caption_
+_DalatCoder Avatar_
 
 Donec dictum libero nec sem interdum, sed accumsan ex finibus. Maecenas vestibulum eleifend libero, id suscipit ligula. Suspendisse vel accumsan quam. Suspendisse ac mi porttitor, sagittis quam at, porttitor dui. Cras nec dapibus ex. Proin ex sapien, vestibulum a cursus id, molestie non risus. Vivamus at libero dui. Phasellus ut lectus neque. Nunc iaculis, tortor egestas finibus scelerisque, libero elit posuere tellus, hendrerit suscipit ligula dolor sed sapien. Integer eu volutpat risus. Duis imperdiet nulla neque, suscipit convallis lacus varius et.
 
