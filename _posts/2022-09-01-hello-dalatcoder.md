@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Xin chào DalatCoder
 date: 2022-09-01 20:26 +0700
 categories: [Demo, DalatCoder]
-tags: [demo,dalatcoder,hello world]     # TAG names should always be lowercase
+tags: [demo,dalatcoder,hello world]
 ---
 
-# Bài viết đầu tiên của DalatCoder
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus neque interdum turpis fringilla, sed elementum sapien maximus. Nullam scelerisque justo nec ex congue facilisis. Integer scelerisque odio id dolor posuere, eu viverra urna aliquet. Vestibulum pellentesque, purus ac aliquam vehicula, mauris erat maximus sem, in condimentum libero dui eget lorem. Ut vestibulum egestas quam, ac vulputate purus tristique ut. Nunc tortor neque, maximus id consectetur id, faucibus ut enim. Fusce sit amet molestie urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla eu ultrices orci. Pellentesque congue magna ut magna lobortis, vitae laoreet nisl egestas.
 
-Xin chào mọi người, đây là bài viết đầu tiên
+<!--more-->
 
 ## Section 1
 
