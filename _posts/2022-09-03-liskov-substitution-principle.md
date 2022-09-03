@@ -6,6 +6,16 @@ categories: [Design Pattern, SOLID]
 tags: [solid, liskov substitution principle, udemy, design patterns in c# and .net]
 ---
 
+Đây là nguyên lí thứ 3 trong bộ 5 nguyên lí SOLID. Theo như "Barbara Liskov" và "Jeannette Wing",
+nguyên lí này chỉ ra rằng:
+
+> Let Φ(x) be a property provable about objects x of type T. Then Φ(y) should be true for objects y of type S where S is a subtype of T.
+
+Đơn giản hơn, nguyên lý này ngụ ý rằng, khi 1 đối tượng của 1 lớp được truyền hoặc mở rộng sang
+1 lớp khác. Lớp cha phải có khả năng thay thế lớp con.
+
+<!--more-->
+
 ## 1. Đặt vấn đề
 
 Để làm rõ nguyên lý này, chúng ta sẽ đến với ví dụ về bài toán hình học. Giả sử
@@ -197,3 +207,4 @@ public class Demo
 ## Tham khảo
 
 - [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
+- [Wiki](https://en.wikipedia.org/wiki/Liskov_substitution_principle#:~:text=Subtype%20Requirement%3A%20Let,a%20subtype%20of%20T)
