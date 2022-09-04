@@ -200,6 +200,33 @@ Mặc dù cấu trúc thay đổi, tuy nhiên cả 2 `class` đều tuân theo `
 `IRelationshipBrowser`, do đó chương trình vẫn sẽ hoạt động bình thường.
 Không có điều gì ảnh hưởng đến `class` `Research` cả.
 
+## Tổng kết
+
+- Single Responsibility Principle
+
+  - A class should noly have one reason to change
+  - `Seperation of concerns` - different class handling different, independent
+  tasks/problems
+
+- Open - Closed principle
+
+  - Classes should be open for extension but closed for modification
+
+- Liskov substition principle
+
+  - You should be able to substitute a base type for a subtype
+
+- Interface Segregation Principle
+
+  - Don't put too much into an interface
+  - Split into seperate interfaces
+  - `YAGNI` - You Ain't Going to Need It
+
+- Dependency Inversion Principle
+
+  - High-level modules should not depend upon low-level ones
+  - Use abstractions
+
 ## Tham khảo
 
 - [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
