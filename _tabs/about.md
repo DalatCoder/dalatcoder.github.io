@@ -14,7 +14,7 @@ Những bài viết ở đây giúp mình hệ thống hoá kiến thức trong 
 tự học. Đồng thời cũng tiện xem lại khi cần dùng đến. Mình sẽ rất
 vui nếu như những ghi chú ở đây giúp được mọi người 🚀.
 
-Mọi người có thể liên hệ với mìhh tại:
+Mọi người có thể liên hệ với mình tại:
 
 - Email: [hieu.ngxtr@gmail.com](mailto:hieu.ngxtr@gmail.com)
 - Github: [https://github.com/dalatcoder](https://github.com/dalatcoder)
