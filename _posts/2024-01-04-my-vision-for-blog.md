@@ -9,11 +9,6 @@ pin: true
 Nội dung bài viết bao gồm các khía cạnh: tổng quan ý tưởng, xây dựng tầm nhìn, cách thức viết bài và lưu
 trữ nội dung bài viết trên blog.
 
-- Giai đoạn 1 (01/2024 - hiện tại):
-  - Sinh viên mới ra trường
-  - Rèn kỹ năng và duy trì thói quen viết blog
-  - Chia sẻ các kiến thức tích luỹ thông qua việc tự học
-
 ## 1. Ngữ cảnh
 
 Mình là Hiếu, kĩ sư chuyên ngành Kĩ thuật phần mềm.
@@ -46,9 +41,21 @@ như mục tiêu, ý tưởng, tầm nhìn của blog này. Vì vậy, mong quý
 - Nếu có bạn đọc, cảm ơn đã ghé thăm trang của mình, các bạn có thể góp ý với mình thông
   qua email hoặc các kênh khác tại phần [Giới thiệu](/about), cảm ơn các bạn rất nhiều.
 
-## 3. Cách thức tổ chức bài viết
+## 3. Giai đoạn
 
-### 3.1. Thể loại
+- Giai đoạn 1 (01/2024 - hiện tại):
+  - Sinh viên mới ra trường
+  - Rèn kỹ năng và duy trì thói quen viết blog
+  - Chia sẻ các kiến thức tích luỹ thông qua việc tự học
+
+## 4. Lịch lên bài viết
+
+- Bài viết mới được phát hành vào tối chủ nhật mỗi tuần
+- Tối thiểu mỗi tuần 1 bài viết
+
+## 5. Cách thức tổ chức bài viết
+
+### 5.1. Thể loại
 
 Các bài viết được phân vào các thể loại riêng biệt giúp việc đọc cũng như tìm kiếm trở nên
 dễ dàng hơn.
@@ -68,7 +75,7 @@ Danh sách thể loại con:
 - `Newbie`
   - `Tôi đã xây dựng blog như thế nào?`: Series bài viết về cách thức cấu hình, xây dựng trang blog cá nhân
 
-### 3.2. Tag
+### 5.2. Tag
 
 Cách thức khác giúp phân loại bài viết trên trang. Cuối mỗi bài viết sẽ có các thẻ nhằm mục đích tổng hợp
 các từ khoá chính liên quan đến bài viết.
