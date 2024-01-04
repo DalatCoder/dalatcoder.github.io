@@ -1,5 +1,5 @@
 ---
-title: About
+# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
@@ -16,5 +16,5 @@ vui nếu như những ghi chú ở đây giúp được mọi người 😁
 
 Có thể tương tác với mình qua các kênh sau:
 
-- [Github](https://github.com/DalatCoder)
-- [Facebook](https://www.facebook.com/dalatcoder)
+- [Github](https://github.com/dalatcoder)
+- [Facebook](https://www.facebook.com/hieungxtr)
