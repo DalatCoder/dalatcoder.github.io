@@ -6,9 +6,8 @@ pin: true
 ---
 
 Đây là 1 bài viết đặc biệt, nó giúp mình đặt ra tầm nhìn, cách thức viết bài và hướng phát triển cho blog.
-<!--more-->
-
-Đây là 1 bài viết đặc biệt, nó giúp mình đặt ra tầm nhìn, cách thức viết bài và hướng phát triển cho blog.
+Nội dung bài viết bao gồm các khía cạnh: tổng quan ý tưởng, xây dựng tầm nhìn, cách thức viết bài và lưu
+trữ nội dung bài viết trên blog.
 
 - Giai đoạn 1 (01/2024 - hiện tại):
   - Sinh viên mới ra trường
