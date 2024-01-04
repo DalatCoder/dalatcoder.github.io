@@ -1,11 +1,15 @@
 ---
 layout: post
 title: SOLID - Liskov Substitution Principle
-date: 2022-09-03 16:01 +0700
-categories: [Design Pattern, SOLID]
-tags: [solid, liskov substitution principle, udemy, design patterns in c# and .net]
+categories:
+- Design Pattern
+- SOLID
+tags:
+- solid
+- liskov substitution principle
+- udemy
+- design patterns in c# and .net
 ---
-
 Đây là nguyên lí thứ 3 trong bộ 5 nguyên lí SOLID. Theo như "Barbara Liskov" và "Jeannette Wing",
 nguyên lí này chỉ ra rằng:
 

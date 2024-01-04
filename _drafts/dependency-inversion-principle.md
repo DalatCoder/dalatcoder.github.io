@@ -1,11 +1,15 @@
 ---
 layout: post
 title: SOLID - Dependency Inversion Principle
-date: 2022-09-03 18:08 +0700
-categories: [Design Pattern, SOLID]
-tags: [solid, dependency inversion principle, udemy, design patterns in c# and .net]
+categories:
+- Design Pattern
+- SOLID
+tags:
+- solid
+- dependency inversion principle
+- udemy
+- design patterns in c# and .net
 ---
-
 Đây là nguyên lý cuối cùng trong bộ 5 nguyên lý SOLID. Nguyên lý này khuyên rằng:
 các thành phần cấp cao của hệ thống không nên phụ thuộc trực tiếp vào các thành
 phần cấp thấp hơn. Thay vào đó, cả 2 nên cùng phụ thuộc vào các thành phần trừu

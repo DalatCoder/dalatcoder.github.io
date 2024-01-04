@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Bắt đầu với Jekyll
-date: 2023-01-07 17:02 +0700
-categories: [Newbie, Jekyll]
-tags: [newbie, jekyll]
+categories:
+- Newbie
+- Jekyll
+tags:
+- newbie
+- jekyll
 ---
-
 Làm quen với Jekyll để tạo nhanh trang blog cá nhân.
 
 <!-- more -->

@@ -1,11 +1,16 @@
 ---
 layout: post
 title: SOLID - Interface Segregation Principle
-date: 2022-09-03 16:58 +0700
-categories: [Design Pattern, SOLID]
-tags: [solid, interface segregation principle, udemy, design patterns in c# and .net, decorator]
+categories:
+- Design Pattern
+- SOLID
+tags:
+- solid
+- interface segregation principle
+- udemy
+- design patterns in c# and .net
+- decorator
 ---
-
 Đây là nguyên lý thứ 4 trong bộ 5 nguyên lí SOLID. Nguyên lý này chỉ ra rằng `interface` của
 1 chương trình nên được phân tách nhỏ sao cho những người lập trình chỉ cần thực thi những
 `interface` mà họ cần. Tránh việc phải thực thi 1 `interface` quá lớn, bao gồm quá nhiều

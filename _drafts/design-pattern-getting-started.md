@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Làm quen với Design Pattern
-date: 2022-09-03 09:31 +070
-categories: [Design Pattern, Overview]
-tags: [design pattern, design pattern overview]
+categories:
+- Design Pattern
+- Overview
+tags:
+- design pattern
+- design pattern overview
 ---
-
 Trong quá trình phát triển phần mềm, 1 mẫu thiết kế (`design pattern`) là
 1 giải pháp cho 1 vấn đề phổ biến có tính lặp đi lặp lại. 1 mẫu thiết kế
 không phải là 1 thiết kế hoàn chỉnh từ `a` tới `á` để có thể biến đổi trực tiếp

@@ -1,10 +1,14 @@
 ---
 title: SOLID - Open Close Principle
-date: 2022-09-03 10:36 +0700
-categories: [Design Pattern, SOLID]
-tags: [solid, open close principle, udemy, design patterns in c# and .net]
+categories:
+- Design Pattern
+- SOLID
+tags:
+- solid
+- open close principle
+- udemy
+- design patterns in c# and .net
 ---
-
 Đây là nguyên lí thứ 2 trong bộ 5 nguyên lý SOLID. Ý tưởng của nguyên lý này chỉ rằng:
 1 đối tượng của phần mềm nên được mở rộng để thêm mới nhưng đóng lại khi thay đổi. Tức là,
 những thứ như `class`, `function`,... nên được tạo theo 1 cách thức mà những `logic` của

@@ -1,11 +1,15 @@
 ---
 layout: post
 title: SOLID - Single Responsibility Principle
-date: 2022-09-03 09:50 +0700
-categories: [Design Pattern, SOLID]
-tags: [solid, single responsibility, udemy, design patterns in c# and .net]
+categories:
+- Design Pattern
+- SOLID
+tags:
+- solid
+- single responsibility
+- udemy
+- design patterns in c# and .net
 ---
-
 `Single Responsibility` hay còn gọi là nguyên lý đơn trách nhiệm. Đây là lời khuyên
 đầu tiên trong bộ 5 nguyên lý `SOLID`. Ý tưởng đằng sau nguyên lý này đó là: mỗi
 `class`, `module` hoặc `function` trong 1 chương trình chỉ nên chịu trách nhiệm

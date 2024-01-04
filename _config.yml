@@ -17,6 +17,7 @@ timezone: Asia/Ho_Chi_Minh
 title: DalatCoder # the main title
 
 tagline: My Notes About Programming # it will display as the sub-title
+excerpt_separator: <!--more-->
 
 description: >- # used by seo meta and the atom feed
   DalatCoder Personal Blog.
@@ -192,3 +193,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
